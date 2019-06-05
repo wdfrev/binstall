@@ -1,7 +1,7 @@
 {
 "installments" : [
-   {"number":1,"installmentDate" : "01/01/2010","startDate" : "01/01/2010",  "endDate" : "01/02/2019", "lines" : [ {"amount" : 100},{"amount": 200} ] },
-   {"number":2,"installmentDate" : "02/01/2010","startDate" : "02/01/2010",  "endDate" : "02/02/2019", "lines" : [ {"amount" : 100},{"amount": 200} ]  },
+   {"number":1,"installmentDate" : "01/01/2010","startDate" : "01/01/2010",  "endDate" : "01/02/2019", "lines" : [ {"amount" : 100} ] },
+   {"number":2,"installmentDate" : "02/01/2010","startDate" : "02/01/2010",  "endDate" : "02/02/2019", "lines" : [ {"amount" : 200} ]  },
    {"number":3,"installmentDate" : "03/01/2010","startDate" : "03/01/2010",  "endDate" : "03/02/2019", "lines" : [ {"amount" : 100},{"amount": 200} ]  },
    {"number":4,"installmentDate" : "04/01/2010","startDate" : "04/01/2010",  "endDate" : "04/02/2019", "lines" : [ {"amount" : 100},{"amount": 200} ]  },
    {"number":5,"installmentDate" : "05/01/2010","startDate" : "05/01/2010",  "endDate" : "05/02/2019", "lines" : [ {"amount" : 100},{"amount": 200} ]  },
