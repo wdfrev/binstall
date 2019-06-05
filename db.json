@@ -1,9 +1,9 @@
 {
 "installments" : [
-   {"number":1,"installmentDate" : "2019-01-01","startDate" : "01/01/2010",  "endDate" : "01/02/2019", "lines" : [ {"amount" : 100} ] },
-   {"number":2,"installmentDate" : "2019-02-01","startDate" : "02/01/2010",  "endDate" : "02/02/2019", "lines" : [ {"amount" : 200} ]  },
-   {"number":3,"installmentDate" : "2019-03-01","startDate" : "03/01/2010",  "endDate" : "03/02/2019", "lines" : [ {"amount" : 100},{"amount": 200} ]  },
-   {"number":4,"installmentDate" : "2019-04-01","startDate" : "04/01/2010",  "endDate" : "04/02/2019", "lines" : [ {"amount" : 100},{"amount": 200} ]  },
-   {"number":5,"installmentDate" : "2019-05-01","startDate" : "05/01/2010",  "endDate" : "05/02/2019", "lines" : [ {"amount" : 100},{"amount": 200} ]  }
+   {"number":1,"installmentDate" : "2019-01-01","startDate" : "2019-01-01",  "endDate" : "2019-01-20", "lines" : [ {"amount" : 100} ] },
+   {"number":2,"installmentDate" : "2019-02-01","startDate" : "2019-02-01",  "endDate" : "2019-02-20", "lines" : [ {"amount" : 200} ]  },
+   {"number":3,"installmentDate" : "2019-03-01","startDate" : "2019-03-01",  "endDate" : "2019-03-20", "lines" : [ {"amount" : 100},{"amount": 200} ]  },
+   {"number":4,"installmentDate" : "2019-04-01","startDate" : "2019-04-01",  "endDate" : "2019-04-20", "lines" : [ {"amount" : 100},{"amount": 200} ]  },
+   {"number":5,"installmentDate" : "2019-05-01","startDate" : "2019-05-01",  "endDate" : "2019-05-20", "lines" : [ {"amount" : 100},{"amount": 200} ]  }
   ]
 }
