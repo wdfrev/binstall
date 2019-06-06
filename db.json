@@ -1,15 +1,9 @@
 {
-"installments" : [
-   {"number":1,"installmentDate" : "2019-01-01","startDate" : "2019-01-01",  "endDate" : "2019-01-02", "lines" : [
-      {"quantity" : 1, "fromDate" : "2019-01-01", "toDate" : "2019-01-01"} 
-     ] 
-    }
-   ],
-   "installments2" : [
-   {"number":1,"installmentDate" : "2019-01-01","startDate" : "2019-01-01",  "endDate" : "2019-01-02", "lines" : [ {"amount" : 100} ] },
-   {"number":2,"installmentDate" : "2019-02-01","startDate" : "2019-02-01",  "endDate" : "2019-02-02", "lines" : [ {"amount" : 200} ]  },
-   {"number":3,"installmentDate" : "2019-03-01","startDate" : "2019-03-01",  "endDate" : "2019-03-02", "lines" : [ {"amount" : 100},{"amount": 200} ]  },
-   {"number":4,"installmentDate" : "2019-04-01","startDate" : "2019-04-01",  "endDate" : "2019-04-02", "lines" : [ {"amount" : 100},{"amount": 200} ]  },
-   {"number":5,"installmentDate" : "2019-05-01","startDate" : "2019-05-01",  "endDate" : "2019-05-02", "lines" : [ {"amount" : 100},{"amount": 200} ]  }
+   "installments" : [
+   {"number":1,"installmentDate" : "2019-01-01","startDate" : "2019-01-01",  "endDate" : "2019-01-02", "lines" : [ {"amount" : 100, "quantity" : 1, "fromDate" : "2019-01-01", "toDate" : "2019-01-02"} ] },
+   {"number":2,"installmentDate" : "2019-02-01","startDate" : "2019-02-01",  "endDate" : "2019-02-02", "lines" : [ {"amount" : 200, "quantity" : 1, "fromDate" : "2019-02-01", "toDate" : "2019-02-02" } ]  },
+   {"number":3,"installmentDate" : "2019-03-01","startDate" : "2019-03-01",  "endDate" : "2019-03-02", "lines" : [ {"amount" : 100, "quantity" : 1, "fromDate" : "2019-03-01", "toDate" : "2019-03-02"},{"amount": 200, "quantity" : 1, "fromDate" : "2019-03-03", "toDate" : "2019-03-05"} ]  },
+   {"number":4,"installmentDate" : "2019-04-01","startDate" : "2019-04-01",  "endDate" : "2019-04-02", "lines" : [ {"amount" : 100, "quantity" : 1, "fromDate" : "2019-04-01", "toDate" : "2019-04-02"},{"amount": 200} ]  },
+   {"number":5,"installmentDate" : "2019-05-01","startDate" : "2019-05-01",  "endDate" : "2019-05-02", "lines" : [ {"amount" : 100, "quantity" : 1, "fromDate" : "2019-05-01", "toDate" : "2019-05-02"},{"amount": 200} ]  }
   ]
 }
